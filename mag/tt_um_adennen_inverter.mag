@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1717265593
+timestamp 1717269404
 << metal1 >>
 rect 25940 3392 26240 3398
 rect 26240 3092 27198 3392
@@ -179,9 +179,9 @@ rect 31282 1543 31283 1721
 rect 31461 1543 31462 1721
 rect 31282 0 31462 1543
 use art_test  art_test_0 ~/fpga/tiny_tapeout/tt07-arond-analog/mag
-timestamp 1717265593
+timestamp 1717269366
 transform 1 0 28680 0 1 5864
-box -8414 -400 2000 19600
+box -18300 -400 2000 37900
 use inverter  inverter_0
 timestamp 1715220266
 transform 1 0 26216 0 1 2149
